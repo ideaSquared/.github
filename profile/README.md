@@ -9,6 +9,7 @@ Hi there 👋
 
 Current Projects:
 - Blue Lizard 🦎
+- [Tarkov Community](https://tarkovcommunity.com) 🔫
 
 <!--
 
